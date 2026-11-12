@@ -23,7 +23,7 @@
 點選「註冊電腦於：男/女x舍」
 接下來就會看到這個畫面，代表成功，等待5~10分鐘就可以上網。
 
-![<p align='center'>
+<p align='center'>
     <img src="assets/register2.png" style="width: 50%; max-width: 600px;">
 </p>
 
@@ -39,7 +39,6 @@
 </p>
 這種孔的話，
 請購買轉接頭，大概會長這樣：
-![adpater](assets/adapter.png)
 <p align='center'>
     <img src="assets/adapter.png" style="width: 66%; max-width: 600px;">
 </p>
@@ -58,7 +57,7 @@
 點選「註冊電腦於：男/女x舍」
 接下來就會看到這個畫面，代表成功，等待5~10分鐘就可以上網。
 
-![<p align='center'>
+<p align='center'>
     <img src="assets/register2.png" style="width: 50%; max-width: 600px;">
 </p>
 
@@ -100,6 +99,7 @@ IP取得請使用dhcp auto
 請聯繫網管
 https://osa_dorm.ntu.edu.tw/AboutUs/NetworkManagementAssistants
 或是輔導員。
+
 ## 參考資料
 https://hackmd.io/@JBWY7SINQ5C32zAOI1PzIg/S1eqgV7oR
 https://ccnet.ntu.edu.tw/ccnet/pages/student_dorm_content/doc/register.pdf
